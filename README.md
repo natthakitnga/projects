@@ -1,4 +1,4 @@
 # project-data-analyst
-  ;wlk;l \n
-  project from baby data analyst \n
+  project from baby data analyst 
+  
   hi from reprositaries
