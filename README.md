@@ -8,7 +8,7 @@
   * Build model to predict rental price of condominium in Bangkok using multiple linear regression.  
 
 
-[livinginsider] : https://www.livinginsider.com
+ [livinginsider] : https://www.livinginsider.com
   
   
   
