@@ -11,6 +11,5 @@
   * This dataset from [Online Retail II UCI](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
   * Visualize annual revenue and popular sale products each segment.
   * Customer Segmentation with K-means clustering. 
-  * 
   
   
